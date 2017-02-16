@@ -203,7 +203,6 @@ p { margin-bottom: 10px; }
 }
 
 .item h3 {
-    background-color: #8BC34A;
     color:#fff;
     padding: 5px;
     margin-top: 0px!important;
@@ -383,18 +382,6 @@ p { margin-bottom: 10px; }
     -ms-transform: rotate(15deg);
     content: "";
 }
-/*.item01 .item h3{
-    background-image: url(../img/base_bg.jpg);
-}
-.item02 .item h3{
-    background-image: url(../img/base_bg.jpg);
-}
-.item03 .item h3{
-    background-image: url(../img/base_bg.jpg);
-}
-.item04 .item h3{
-    background-image: url(../img/base_bg.jpg);
-}*/
 a.moreLink {
     display: block;
     width: 40%;
