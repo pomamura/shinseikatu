@@ -348,15 +348,13 @@ p { margin-bottom: 10px; }
     padding: 0.2em 0 0 1.7em;
     position: relative;
 }
-/*.ttl-bg{
+.ttl-bg{
     background: #fad9e0;
-    color: #212121;
-    width: 50%;
+    color: #5C4747;
     border: 2px dashed #fff;
     border-radius: 5px;
     box-shadow: 0 0 3px 3px #fad9e0;
-    padding-right: 100px;
-}*/
+}
 .ttl-icon:before{
     background: #d48789;/* 左上四角部分の色 */
     top: 0;/* 左上四角部分の位置 */
