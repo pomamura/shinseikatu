@@ -402,6 +402,7 @@ a.moreLink {
     width: 40%;
     text-align: center;
     margin: 20px auto;
+    margin-bottom: 50px;
     background-image: url("../img/base_bg.jpg");
     padding: 10px 0;
     color: #fff !important;
